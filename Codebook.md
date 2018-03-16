@@ -1,13 +1,13 @@
 ## CODEBOOK
 
-This file describes the variables, data, and transformations that you can find in the Get&Cli_Asses4.R file.
+This file describes the variables, data, and transformations that you can find in the run_analysis.R file.
 
 1. The site from where the data come from:
     http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
 2. The data for the project:   
     https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
     
-The Get&Cli_Asses4 script performs the following steps:
+The run_analysis script performs the following steps:
 
 #### STEP 0: Download and extract the data
 
